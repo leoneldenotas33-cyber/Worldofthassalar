@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Gradle
+/.gradle/
+/build/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+/bin/
+
+# Minecraft Mod Development
+/run/
+.DS_Store
